@@ -24,6 +24,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/meme.jpg" width="250px" />
 
+## My Certifications &nbsp;<img src="./assets/certificate.png" width="25px" align="center" />
+
+- [Google Cloud: Professional Cloud Architect](https://www.credly.com/badges/bcff1d62-7cf4-46b1-8dc5-a8e61fc4956c/public_url)
+- [Google Cloud: Associate Cloud Engineer](https://www.credly.com/badges/2f0f0fc4-a2e5-4598-bdc3-d37e212295ec/public_url)
+- [HashiCorp: Terraform](https://www.credly.com/badges/8b6fad89-c458-42c7-9916-4ad7d3d69eb1/public_url)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/bcff1d62-7cf4-46b1-8dc5-a8e61fc4956c/public_url">
+<img src="./assets/gcp-professional-cloud-architect.png" width="156px" />
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/2f0f0fc4-a2e5-4598-bdc3-d37e212295ec/public_url">
+<img src="./assets/gcp-cloud-engineer.png" width="156px" />
+</a>
+<a href="https://www.credly.com/badges/8b6fad89-c458-42c7-9916-4ad7d3d69eb1/public_url">
+<img src="./assets/hashicorp-terraform.png" width="156px" />
+</a>
+
 ## Connect with me &nbsp;<img src="./assets/hello.webp" width="25px">
 
 <a href="https://www.linkedin.com/in/kishan02patel/">
