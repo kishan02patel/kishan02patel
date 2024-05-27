@@ -35,15 +35,10 @@
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/bcff1d62-7cf4-46b1-8dc5-a8e61fc4956c/public_url">
 <img src="./assets/gcp-professional-cloud-architect.png" width="156px" alt="google cloud professional cloud architect badge"/>
-</a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/2f0f0fc4-a2e5-4598-bdc3-d37e212295ec/public_url">
+&nbsp;&nbsp;&nbsp;
 <img src="./assets/gcp-cloud-engineer.png" width="156px" alt="google cloud associate cloud engineer badge"/>
-</a>
-<a href="https://www.credly.com/badges/8b6fad89-c458-42c7-9916-4ad7d3d69eb1/public_url">
 <img src="./assets/hashicorp-terraform.png" width="156px" alt="hashicorp certified terraform associate badge"/>
-</a>
 
 <br/>
 
