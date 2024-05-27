@@ -6,7 +6,17 @@
 
 <img src="./assets/layout.png" width="25px" align="center" /> &nbsp; Love working on React frontends and Nodejs backends
 
-<img src="./assets/shell.png" width="25px" align="center" /> &nbsp; Currently learning Devops
+<picture>
+  <source
+    srcset="./assets/shell-light.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/shell-dark.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="./assets/shell-light.png" width="25px" align="center"/> &nbsp; Currently learning Devops and Python
+</picture>
 
 ## Connect with me &nbsp;<img src="./assets/hello.webp" width="25px">
 
