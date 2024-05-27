@@ -17,8 +17,9 @@
     srcset="./assets/shell-dark.png"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="./assets/shell-light.png" width="25px" align="center" alt="shell icon"/> &nbsp; Currently learning Devops and Python
-</picture> <br /><br />
+  <img src="./assets/shell-light.png" width="25px" align="center" alt="shell icon"/>
+</picture>
+&nbsp; Currently learning Devops and Python <br/><br/>
 
 <img src="./assets/calendar.png" width="25px" align="center" alt="calendar icon"/> &nbsp; I spend my weekends like this 👇🏻
 
@@ -32,7 +33,7 @@
 - [Google Cloud: Associate Cloud Engineer](https://www.credly.com/badges/2f0f0fc4-a2e5-4598-bdc3-d37e212295ec/public_url)
 - [HashiCorp: Terraform](https://www.credly.com/badges/8b6fad89-c458-42c7-9916-4ad7d3d69eb1/public_url)
 
-<br />
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/gcp-professional-cloud-architect.png" width="156px" alt="google cloud professional cloud architect badge"/>
